@@ -14,7 +14,8 @@ This project is a travel booking system that allows users and travel agencies to
   - Manage account
   - View and book trip packages
 - **Image**:
-  ![User Registration](path/to/user_registration_image.png)
+  ![User Registration](![Screenshot (11)](https://github.com/rahul03052003/Project/assets/143925767/7ed8e9e6-8d79-439a-963a-ad5d3f0ac306)
+)
 
 ### Agency Registration
 - **Description**: Allows travel agencies to register by entering their details.
