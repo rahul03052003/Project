@@ -24,7 +24,8 @@ This project is a travel booking system that allows users and travel agencies to
   - Access to agency dashboard
   - Manage trip packages and bookings
 - **Image**:
-  ![Agency Registration](path/to/agency_registration_image.png)
+  ![Agency Registration](![Screenshot (23)](https://github.com/rahul03052003/Project/assets/143925767/17cb063a-84c8-497e-9ec8-10e094e3964b)
+)
 
 ### Admin Login
 - **Description**: Allows administrators to log in and manage users and agencies.
@@ -33,7 +34,8 @@ This project is a travel booking system that allows users and travel agencies to
   - Manage user details
   - Manage agency details
 - **Image**:
-  ![Admin Login](path/to/admin_login_image.png)
+  ![Admin Login](![Screenshot (12)](https://github.com/rahul03052003/Project/assets/143925767/ff99c1e8-4100-4fb4-9549-e170ca39c6aa)
+)
 
 ### Upload Trip Packages
 - **Description**: Allows registered agencies to upload, edit, and delete trip packages.
@@ -42,7 +44,8 @@ This project is a travel booking system that allows users and travel agencies to
   - Edit existing trip packages
   - Delete trip packages
 - **Image**:
-  ![Upload Trip Packages](path/to/upload_trip_packages_image.png)
+  ![Upload Trip Packages](![Screenshot (6)](https://github.com/rahul03052003/Project/assets/143925767/02024cba-8000-4026-a7d7-2a062c545e43)
+)
 
 ### Manage Profile
 - **Description**: Allows users to view and update their profile information.
@@ -50,14 +53,16 @@ This project is a travel booking system that allows users and travel agencies to
   - View profile details
   - Update profile information
 - **Image**:
-  ![Manage Profile](path/to/manage_profile_image.png)
+  ![Manage Profile](![Screenshot (17)](https://github.com/rahul03052003/Project/assets/143925767/706bebd5-086f-4112-8abc-cbdd2d202fe6)
+)
 
 ### Trip Confirmation
 - **Description**: Sends a trip confirmation email to users after booking a trip.
 - **Features**:
   - Email confirmation for trip bookings
 - **Image**:
-  ![Trip Confirmation](path/to/trip_confirmation_image.png)
+  ![Trip Confirmation](![Screenshot (9)](https://github.com/rahul03052003/Project/assets/143925767/9125956b-bd23-4515-8f01-e207bf559bb0)
+)
 
 ## Installation
 
